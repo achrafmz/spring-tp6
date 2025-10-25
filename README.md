@@ -4,3 +4,4 @@
 <img width="1235" height="615" alt="DELETE" src="https://github.com/user-attachments/assets/90786ba9-c5a7-4620-8cb4-67751bb5c891" />
 <img width="608" height="726" alt="COUNT" src="https://github.com/user-attachments/assets/76b7ad37-a622-40be-87de-20cd7e1cc2b3" />
 <img width="581" height="883" alt="YEAR" src="https://github.com/user-attachments/assets/c6c44db7-ce52-401d-9344-4413515f6a56" />
+<img width="1893" height="852" alt="image" src="https://github.com/user-attachments/assets/830ebbc8-0c12-4fa6-aefd-3408603928ac" />
